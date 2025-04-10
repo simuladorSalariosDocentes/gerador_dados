@@ -1,4 +1,4 @@
-sv$c<?php
+<?php
 
 include_once(__DIR__ . "/sql/Connection.php");
 include_once(__DIR__ . "/sql/SQL.php");
@@ -7,7 +7,6 @@ include_once(__DIR__ . "/sql/SQL.php");
 $conn = Connection::getConnection();
 
 $dadosSaudeValores = SQL::getDataArray($conn, "SELECT * FROM saude_valores ORDER BY id_saude_versao, id_saude_faixa, id");
-//print_r($classes);
 
 $idVersao = 0;
 $idFaixa = 0;
