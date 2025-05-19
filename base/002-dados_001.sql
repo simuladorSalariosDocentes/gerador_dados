@@ -4,26 +4,26 @@ INSERT INTO versoes (id, descricao) VALUES (2, 'Mai/2026 em diante');
 
 
 /* TABELA classes */
-INSERT INTO classes (id, descricao, id_versao) VALUES (1, 'Entrada', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (2, 'Adjunto/DIII - Nível 1', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (3, 'Adjunto/DIII - Nível 2', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (4, 'Adjunto/DIII - Nível 3', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (5, 'Adjunto/DIII - Nível 4', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (6, 'Associado/DIV - Nível 1', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (7, 'Associado/DIV - Nível 2', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (8, 'Associado/DIV - Nível 3', 1);
-INSERT INTO classes (id, descricao, id_versao) VALUES (9, 'Associado/DIV - Nível 4', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (1, 'A/Assistente - Nível 1', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (2, 'B/Adjunto - Nível 1', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (3, 'B/Adjunto - Nível 2', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (4, 'B/Adjunto - Nível 3', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (5, 'B/Adjunto - Nível 4', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (6, 'C/Associado - Nível 1', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (7, 'C/Associado - Nível 2', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (8, 'C/Associado - Nível 3', 1);
+INSERT INTO classes (id, descricao, id_versao) VALUES (9, 'C/Associado - Nível 4', 1);
 INSERT INTO classes (id, descricao, id_versao) VALUES (10, 'Titular', 1);
 
-INSERT INTO classes (id, descricao, id_versao) VALUES (11, 'Entrada', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (12, 'Adjunto/DIII - Nível 1', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (13, 'Adjunto/DIII - Nível 2', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (14, 'Adjunto/DIII - Nível 3', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (15, 'Adjunto/DIII - Nível 4', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (16, 'Associado/DIV - Nível 1', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (17, 'Associado/DIV - Nível 2', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (18, 'Associado/DIV - Nível 3', 2);
-INSERT INTO classes (id, descricao, id_versao) VALUES (19, 'Associado/DIV - Nível 4', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (11, 'A/Assistente - Nível 1', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (12, 'B/Adjunto - Nível 1', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (13, 'B/Adjunto - Nível 2', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (14, 'B/Adjunto - Nível 3', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (15, 'B/Adjunto - Nível 4', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (16, 'C/Associado - Nível 1', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (17, 'C/Associado - Nível 2', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (18, 'C/Associado - Nível 3', 2);
+INSERT INTO classes (id, descricao, id_versao) VALUES (19, 'C/Associado - Nível 4', 2);
 INSERT INTO classes (id, descricao, id_versao) VALUES (20, 'Titular', 2);
 
 
